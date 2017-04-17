@@ -271,6 +271,9 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 `$ man <cmd>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+Google is always a great resource for learning about particular commands!
+*Contributed by [Michael Prince](http://github.com/mikefsm)*
+
 #### What is a "Superuser" and how do you execute commands as this user?
 
 The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
@@ -287,6 +290,9 @@ Text editor that often causes debates with emacs lovers.
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
+Vim is a powerful editing tool with a very steep learning curve. Much like the terminal, your mouse is worthless. For many this is too awkward and too difficult to overcome. Fot those that persevere and really get a feel for Vim it can speed up the task of writing code. If you're interested in learning checkout https://vim-adventures.com/
+*Contributed by [Michael Prince](http://github.com/mikefsm)*
+
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
@@ -300,6 +306,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+
+The baxh '.bash_profile' file allows you to customize your terminal experience.
+*Contributed by [Michael Prince](http://github.com/mikefsm)*
 
 #### What is the `$PATH` variable?
 
